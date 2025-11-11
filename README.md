@@ -19,6 +19,7 @@ Using the Fashion MNIST dataset, the model learns to identify clothing categorie
 **Image Size:** 28×28 pixels (grayscale)
 
 -----
+
 **Tech Stack**
 
 **Language:** Python
